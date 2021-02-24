@@ -17,3 +17,4 @@ Content-Type: application/json
 ### Get User Own Profile
 GET http://localhost:3000/users/profile
 Authorization: Bearer <TOKEN>
+
